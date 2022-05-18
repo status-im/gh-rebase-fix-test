@@ -23,9 +23,9 @@ confirm() {
 load_config() {
   [[ -f merge-pr.conf ]] && . merge-pr.conf
   : ${OWNER:=status-im}
-  : ${REPO:=status-react}
+  : ${REPO:=gh-rebase-fix-test}
   : ${REMOTE:=origin}
-  : ${BRANCH:=develop}
+  : ${BRANCH:=master}
 }
 
 check_pr_prereq() {
