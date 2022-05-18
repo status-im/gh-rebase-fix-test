@@ -4,4 +4,4 @@ This a repo for testing fixes for [`scripts/merge-pr.sh`](https://github.com/sta
 
 # Details
 
-Nothing, literally nothing.
+Nothing, literally nothing. Or maybe something?
