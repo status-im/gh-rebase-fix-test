@@ -15,4 +15,4 @@ It's possible this is a timing issue and is related to repository size as well.
 
 # Details
 
-Nothing, literally nothing. Or maybe something? Impossible!
+Nothing, literally nothing. Or maybe something? Impossible! Although...
